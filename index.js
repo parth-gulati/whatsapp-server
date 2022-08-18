@@ -1,4 +1,4 @@
-import client from "./whatsapp-client";
+import client from "./wtp-client";
 const express = require("express");
 const cors = require("cors");
 const app = express();
